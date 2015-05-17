@@ -1,0 +1,12 @@
+/*
+ * ZhaoFeng Zeng
+ * zhaofeng.zeng83@gmail.com
+ *
+*/
+
+#container{
+ position: relative;
+}
+#container .children{
+ position: absolute;
+}
